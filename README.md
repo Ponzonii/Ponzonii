@@ -1,7 +1,7 @@
 ###  - 👋 Hi, I’m Ponzonii
 
 - 👀 I’m interested in Web Desingn!
-- 🌱 I’m currently learning Flask from Phyton and Bootstrap!
+- 🌱 I’m currently learning FrameWork Flask in Phyton!
 - 😁 Fun fact: I got to know programming through school!
 
 <br>
