@@ -18,6 +18,3 @@
 ### - 🗯️ Talk to me!
 
 - 📫 Email: luizgalhardolh@gmail.com
-- 📸 Instagram: https://www.instagram.com/oponzonii/
-
-
