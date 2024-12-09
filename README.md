@@ -13,11 +13,11 @@
   <img align="center" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg">
   <img align="center" alt="FrameWork Flask" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original.svg">
   <img align="center" alt="BootsTrap 5" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Python" height="80" width="150" src="https://docs.peewee-orm.com/en/latest/_images/peewee3-logo.png">
+  <img align="center" alt="PeeWee³" height="80" width="150" src="https://docs.peewee-orm.com/en/latest/_images/peewee3-logo.png">
 </div>
 
 <br>
 
 ### - 🗯️ Talk to me!
 
- <a href = "mailto:luizgalhardolh2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 📫 Email: luizgalhardolh@gmail.com
