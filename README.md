@@ -2,7 +2,7 @@
 <br>
 
 - 👀 I’m interested in Web Desingn!
-- 🌱 I'm going to start studying JavaScript!
+- 🌱 I'm studying Peewee!
 - 😁 Fun fact: I got to know programming through school!
 
 <br>
