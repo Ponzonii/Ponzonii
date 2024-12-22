@@ -1,4 +1,4 @@
-## - 👋 Hi, I’m Ponzonii
+## - 👋 Hi, I’m Ponzonii, one Junior Programmer
 <br>
 
 - 👀 I’m interested in Web Desingn!
