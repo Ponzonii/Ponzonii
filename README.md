@@ -2,7 +2,7 @@
 <br>
 
 - 👀 I’m interested in Web Desingn!
-- 🌱 I'm studying HTML⁵ and CSS³!
+- 🌱 I'm studying HTML⁵, CSS³ and JavaScript!
 - 😁 Fun fact: I got to know programming through school!
 
 <br>
