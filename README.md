@@ -13,8 +13,9 @@
   <img align="center" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
   <img align="center" alt="Pictogrammers - Material Design Icons" height="80" width="80" src="https://pictogrammers.com/images/libraries/mdi.svg">
+  <img align="center" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
+  
 </div>
 
 <br>
