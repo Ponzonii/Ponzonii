@@ -2,7 +2,7 @@
 <br>
 
 - 👀 I’m interested in Web Desingn!
-- 🌱 I'm studying HTML⁵, CSS³ and JavaScript!
+- 🌱 I'm studying FrameWork Flask on Python!
 - 😁 Fun fact: I got to know programming through school!
 
 <br>
