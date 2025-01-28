@@ -1,5 +1,4 @@
-## - Hi, I’m Ponzonii, one Junior Programmer
-<br>
+## - ✨ Hi, I’m Ponzonii, one Junior Programmer 
 
 - 👀 I’m interested in Web Desingn!
 - 🌱 I'm studying FrameWork Flask on Python!
@@ -7,21 +6,20 @@
 
 <br>
 
-## - Basic skills
-<br>
+## - 👾 Basic skills
+
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" >
-  <img align="center" alt="SQLite" height="80" width="80" src="https://api.nuget.org/v3-flatcontainer/sqlite.redist/3.8.4.2/icon">
-  <img align="center" alt="MicroFrameWork Web Flask on Python" height="80" width="180" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png">
-  <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap pn CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Pictogrammers - Material Design Icons on CSS" height="80" width="80" src="https://pictogrammers.com/images/libraries/mdi.svg">
-  <img align="center" alt="JavaScript" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
-  
+  <img align="center" alt="Python" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Light.svg">
+  <img align="center" alt="Flask" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Light.svg">
+  <img align="center" alt="HTML" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
+  <img align="center" alt="Jinja on HTML" height="75" src="https://palletsprojects.com/static/content/projects/jinja-name.png">
+  <img align="center" alt="CSS" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+  <img align="center" alt="Bootstrap" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg">
+  <img align="center" alt="JavaScript" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
 </div>
 
 <br>
 
-## - 🗯️ Talk to me!
-📫 Email: luizgalhardolh@gmail.com
+## - 🖐️ Talk to Me!
+
+-  **Email:** [luizgalhardolh@gmail.com](mailto:luizgalhardolh@gmail.com)
