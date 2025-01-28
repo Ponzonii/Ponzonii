@@ -1,4 +1,4 @@
-## - ✨ Hi, I’m Ponzonii, one Junior Programmer 
+# - ✨ Hi, I’m Ponzonii, one Junior Programmer 
 
 - 👀 I’m interested in Web Desingn!
 - 🌱 I'm studying FrameWork Flask on Python!
@@ -20,6 +20,10 @@
 
 <br>
 
-## - 🖐️ Talk to Me!
+## - ⛏️ My featured repositories
+- [Customers Manegement](https://github.com/Ponzonii/Customers-Management.git) - This is my repository where I store my Customer Management project.
 
--  **Email:** [luizgalhardolh@gmail.com](mailto:luizgalhardolh@gmail.com)
+<br>
+
+## - 🖐️ Talk to Me!
+- 📫 **Email:** [luizgalhardolh@gmail.com](mailto:luizgalhardolh@gmail.com)
