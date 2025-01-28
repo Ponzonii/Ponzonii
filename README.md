@@ -1,4 +1,4 @@
-# - ✨ Hi, I’m Ponzonii, one Junior Programmer 
+# - ✨ Hi, I’m Ponzonii
 
 - 👀 I’m interested in Web Desingn!
 - 🌱 I'm studying FrameWork Flask on Python!
