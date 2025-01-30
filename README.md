@@ -21,10 +21,11 @@
 <br>
 
 # My featured repositories
-- [Customers Manegement](https://github.com/Ponzonii/Customers-Management.git) - This is my repository where I store my Customer Management project.
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ponzonii&repo=Customers-Management&theme=radical&hide_border=true)
+
 
 ## My status
-[![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii)](https://github.com/anuraghazra/github-readme-stats)
+![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii&theme=radical&hide_border=true)
 
 <br>
 
