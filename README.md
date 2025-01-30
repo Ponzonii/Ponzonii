@@ -4,8 +4,6 @@
 - 🌱 I'm studying FrameWork Flask on Python!
 - 😁 Fun fact: I got to know programming through school!
 
-<br>
-
 # Basic skills
 
 <div style="display: inline_block">
@@ -18,15 +16,13 @@
   <img align="center" alt="JavaScript" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
 </div>
 
-<br>
-
 # My featured repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ponzonii&repo=Customers-Management&theme=radical&hide_border=true)](https://github.com/Ponzonii/Customers-Management)
 
 ## My status
-![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii&theme=radical&hide_border=true)
+![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii&theme=radical&hide_border=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ponzonii&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
 # Talk to Me!
 - 📫 **Email:** [luizgalhardolh@gmail.com](mailto:luizgalhardolh@gmail.com)
