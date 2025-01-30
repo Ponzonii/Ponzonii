@@ -1,4 +1,4 @@
-# - ✨ Hi, I’m Ponzonii
+# Hi, I’m Ponzonii
 
 - 👀 I’m interested in Web Desingn!
 - 🌱 I'm studying FrameWork Flask on Python!
@@ -6,7 +6,7 @@
 
 <br>
 
-## - 👾 Basic skills
+# Basic skills
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Light.svg">
@@ -20,10 +20,13 @@
 
 <br>
 
-## - ⛏️ My featured repositories
+# My featured repositories
 - [Customers Manegement](https://github.com/Ponzonii/Customers-Management.git) - This is my repository where I store my Customer Management project.
+
+## My status
+[![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-## - 🖐️ Talk to Me!
+# Talk to Me!
 - 📫 **Email:** [luizgalhardolh@gmail.com](mailto:luizgalhardolh@gmail.com)
