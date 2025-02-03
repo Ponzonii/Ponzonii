@@ -12,8 +12,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,flask&perline=3)
 
-<br>
-
 ## *My status*
 
 ![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii&theme=radical&hide_border=true&show-icons=true) <br>
