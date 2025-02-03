@@ -9,16 +9,8 @@
 - 😁 **Fun fact: I got to know programming through school!**
 
 ### *My basic skills*
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Light.svg">
-  <img align="center" alt="Flask" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Light.svg">
-  <img align="center" alt="HTML" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
-  <img align="center" alt="Jinja on HTML" height="75" src="https://palletsprojects.com/static/content/projects/jinja-name.png">
-  <img align="center" alt="CSS" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
-  <img align="center" alt="Bootstrap" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg">
-  <img align="center" alt="JavaScript" height="75" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
-</div>
 
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,flask&perline=3)
 
 <br>
 
