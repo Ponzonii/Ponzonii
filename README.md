@@ -10,15 +10,12 @@
 
 ### *My basic skills*
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,flask&perline=3)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,flask&perline=6)
 
 ## *My status*
 
 ![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii&theme=radical&hide_border=true&show-icons=true) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ponzonii&layout=compact&theme=radical&hide_border=true)
-
-### *My best repositories*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ponzonii&repo=Customers-Management&theme=radical&hide_border=true)](https://github.com/Ponzonii/Customers-Management)
 
 # *🖐️ Talk to Me!*
 - 📫 **Email:** [luizgalhardolh@gmail.com](mailto:luizgalhardolh@gmail.com)
