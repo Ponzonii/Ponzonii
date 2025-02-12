@@ -10,7 +10,7 @@
 
 ### *My basic skills*
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,flask&perline=6)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,flask&perline=)
 
 ## *My status*
 
