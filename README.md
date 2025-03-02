@@ -12,7 +12,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,flask&perline=)
 
-##*My status*
+## *My status*
 
 ![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii&theme=radical&hide_border=true&show-icons=true) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ponzonii&layout=compact&theme=radical&hide_border=true)
