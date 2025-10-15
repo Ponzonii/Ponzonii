@@ -1,21 +1,3 @@
-# *👋 Hi, I’m Ponzonii*
+Hey, what's up? My name is Luiz, more specifically Luiz Henrique Ponzoni Galhardo, my nickname is Ponzonii. I'm 13 years old and dream of someday becoming a programmer. I have some experience with Python, HTML, and CSS.
 
-- 👤 *My name is Ponzonii, I'm only 12 years old and I study web design and dream of being a programmer.*
- 
-## *About Me*
-
-- 👀 **I’m interested in Web Desingn!**
-- 🌱 **I'm studying Web Design technologies!**
-- 😁 **Fun fact: I got to know programming through school!**
-
-### *My basic skills*
-
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,flask&perline=)
-
-## *My status*
-
-![Ponzonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ponzonii&theme=radical&hide_border=true&show-icons=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ponzonii&layout=compact&theme=radical&hide_border=true)
-
-# *🖐️ Talk to Me!*
-- 📫 **Email:** [luizgalhardolh@gmail.com](mailto:luizgalhardolh@gmail.com)
+I want to be a programmer who builds websites; I think that's a really cool field. Well, that's all for now. Thank you so much for reading. Bye!
