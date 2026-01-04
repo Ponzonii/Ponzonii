@@ -1,4 +1,4 @@
-<img src="coding.gif" alt="coding" height="200px" width="900px">
+
 
 <hr>
 
