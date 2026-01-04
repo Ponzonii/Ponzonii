@@ -12,13 +12,13 @@
   </a>
 </div>
 
-<hr width="85%">
+<hr>
 
 *Olá, meu nome é Luiz Henrique, tenho 13 anos de idade e sonho um dia ser um programador. Estudo Desenvolvimento Web <br> e atualmente estou criando/estudando um projeto de CRUD com Framework Flask em Python.*
 
 ### 🌟 Meu repositório principal → [Gestão de Clientes](https://github.com/Ponzonii/Gest-o-de-Clientes.git)
 
-<hr width="85%">
+<hr>
 
 
 ### 🖥️ *Minhas habilidades básicas:*
