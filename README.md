@@ -4,7 +4,7 @@
 
 >
 
-*Olá, meu nome é Luiz Henrique, tenho 13 anos de idade e sonho um dia ser um programador. Estudo Desenvolvimento de Sistemas e estou criando um projeto mobile.*
+*Olá, meu nome é Luiz Henrique, tenho 13 anos de idade e sonho um dia ser um programador na área de Web Dev.*
 
 ### 🌟 *Meu repositório principal* → [Gestão de Clientes](https://github.com/Ponzonii/Gest-o-de-Clientes.git)
 
